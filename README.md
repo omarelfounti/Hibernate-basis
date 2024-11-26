@@ -1,0 +1,1 @@
+Ejercicio a realizar en clase. Sigue los pasos => https://www.geeksforgeeks.org/basic-program-in-hibernate/
